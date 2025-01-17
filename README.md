@@ -31,6 +31,9 @@ Ce projet présente une solution IoT complète déployée sur un **ESP32 TTGO**,
 - L’accès à une **API REST** pour piloter et superviser l’application à distance.
 - Le **support OTA** pour mettre à jour le firmware sans fil.
 
+### Visualisation du branchement :
+![image](https://github.com/user-attachments/assets/c66edc82-ba1e-45b9-bd61-019e90bb24aa)
+
 ---
 
 ## 2. Caractéristiques et Fonctionnalités
