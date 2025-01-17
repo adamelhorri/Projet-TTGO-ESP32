@@ -185,6 +185,7 @@ projet_iot/
 ---
 
 ## 12. Développement Futur et Améliorations
+- **Visualisation** : Generation d'une application Flutter permettant d'utiliser l'API au maximum de son potentiel
 - **Optimisation** des calculs SteinHart-Hart (bibliothèque dédiée?).  
 - **Sécurité** : Chiffrement BLE, authentification pour l’API REST.  
 - **Dashboards** : Intégration d’un client web local ou d’une plateforme Cloud (ex: ThingsBoard, AWS IoT).  
